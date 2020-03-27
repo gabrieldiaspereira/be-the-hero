@@ -6,7 +6,6 @@ Be the hero is a web app and mobile app that you can register your NGO and recei
 ## Get started
 1. At first, clone the repo by running `git clone https://github.com/gabrieldiaspereira/be-the-hero.git` on your terminal.
 2. After cloning run `yarn install` or `npm install` on **backend**, **web** and **mobile** folder.
-3. Next, go to `mobile/src/services` folder and edit a file **api.js**, with you can add your ip address followed by server port or your server url. 
 3. Next, go to the `mobile/src/services` folder and edit the file **api.js**, in baseURL add your IP address followed by the server port or the server URL.
 
 ## :rocket: Technologies
